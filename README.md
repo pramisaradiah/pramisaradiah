@@ -18,5 +18,4 @@ This repository will serve as my learning journey. You’ll find:
 3. Expand my knowledge into other programming languages and concepts like data structures.
 ## Connect With Me
 [GitHub](https://github.com/pramisaradiah)
-Email: pramisaradiah@gmail.com
 Thank you for stopping by! Feel free to check out my projects and contribute. 😊
