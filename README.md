@@ -17,5 +17,6 @@ This repository will serve as my learning journey. You’ll find:
 2. Apply my learning through hands-on projects.
 3. Expand my knowledge into other programming languages and concepts like data structures.
 ## Connect With Me
-[GitHub](https://github.com/pramisaradiah)
+- [GitHub](https://github.com/pramisaradiah)
+
 Thank you for stopping by! Feel free to check out my projects and contribute. 😊
